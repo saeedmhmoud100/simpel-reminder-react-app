@@ -1,9 +1,8 @@
-.color-body {
-  height: 100vh;
+body {
   background-color: #eee;
 }
 .rectangle {
-  height: 600px;
+  height: 550px;
   border-radius: 15px;
   background-color: #fff;
   box-shadow: 1px 4px 4px 1px rgba(85, 85, 85, 0.25);
